@@ -1,0 +1,1001 @@
+transaction_id,customer_id,amount,payment_method,failure_reason,previous_failures,recovery_status
+TX00001,C0224,8767,Wallet,Bank Timeout,0,Recovered
+TX00002,C0206,5439,Wallet,Card Expired,2,Not Recovered
+TX00003,C0030,7172,Card,Insufficient Funds,4,Not Recovered
+TX00004,C0213,166,Net Banking,Insufficient Funds,0,Recovered
+TX00005,C0022,1787,Card,Insufficient Funds,0,Recovered
+TX00006,C0210,5697,UPI,Bank Timeout,0,Recovered
+TX00007,C0266,509,Net Banking,Card Expired,1,Not Recovered
+TX00008,C0237,4096,Net Banking,Payment Declined,0,Recovered
+TX00009,C0280,8449,UPI,Technical Error,4,Recovered
+TX00010,C0236,8446,Card,Bank Timeout,2,Recovered
+TX00011,C0218,7265,Net Banking,Technical Error,0,Recovered
+TX00012,C0245,2088,Net Banking,Technical Error,1,Not Recovered
+TX00013,C0032,3207,Wallet,Insufficient Funds,2,Not Recovered
+TX00014,C0214,1895,Wallet,Bank Timeout,0,Recovered
+TX00015,C0179,1648,Card,Technical Error,5,Not Recovered
+TX00016,C0134,6842,Card,Payment Declined,1,Recovered
+TX00017,C0141,5293,Card,Insufficient Funds,2,Not Recovered
+TX00018,C0098,9048,Wallet,Insufficient Funds,2,Not Recovered
+TX00019,C0091,2856,Wallet,Insufficient Funds,2,Not Recovered
+TX00020,C0270,2373,UPI,Card Expired,4,Not Recovered
+TX00021,C0013,9580,UPI,Bank Timeout,4,Recovered
+TX00022,C0133,9942,Net Banking,Insufficient Funds,0,Recovered
+TX00023,C0177,1382,Net Banking,Payment Declined,1,Recovered
+TX00024,C0219,9888,Card,Bank Timeout,5,Recovered
+TX00025,C0043,697,UPI,Payment Declined,2,Recovered
+TX00026,C0200,4415,Net Banking,Payment Declined,4,Not Recovered
+TX00027,C0197,9895,Net Banking,Technical Error,0,Not Recovered
+TX00028,C0041,6593,Wallet,Card Expired,4,Not Recovered
+TX00029,C0182,1210,Card,Bank Timeout,5,Recovered
+TX00030,C0074,5630,Net Banking,Insufficient Funds,3,Not Recovered
+TX00031,C0161,9865,Net Banking,Payment Declined,4,Recovered
+TX00032,C0294,2778,Card,Insufficient Funds,0,Not Recovered
+TX00033,C0127,9904,Card,Insufficient Funds,0,Not Recovered
+TX00034,C0034,9015,Wallet,Card Expired,3,Not Recovered
+TX00035,C0238,3963,Net Banking,Technical Error,0,Recovered
+TX00036,C0184,5184,Wallet,Payment Declined,3,Not Recovered
+TX00037,C0176,127,Card,Technical Error,0,Not Recovered
+TX00038,C0077,8311,Card,Payment Declined,1,Not Recovered
+TX00039,C0148,1819,UPI,Technical Error,0,Recovered
+TX00040,C0007,446,UPI,Insufficient Funds,3,Not Recovered
+TX00041,C0058,6199,UPI,Payment Declined,1,Not Recovered
+TX00042,C0096,1353,Net Banking,Card Expired,5,Not Recovered
+TX00043,C0117,9474,Wallet,Insufficient Funds,4,Not Recovered
+TX00044,C0232,3048,Card,Card Expired,5,Not Recovered
+TX00045,C0286,9759,Card,Technical Error,3,Not Recovered
+TX00046,C0293,4672,Wallet,Bank Timeout,0,Recovered
+TX00047,C0096,2982,UPI,Payment Declined,4,Not Recovered
+TX00048,C0033,3917,Net Banking,Payment Declined,5,Not Recovered
+TX00049,C0195,752,Card,Technical Error,1,Not Recovered
+TX00050,C0232,5299,Card,Payment Declined,2,Recovered
+TX00051,C0179,3534,Net Banking,Bank Timeout,0,Recovered
+TX00052,C0112,646,Net Banking,Bank Timeout,4,Recovered
+TX00053,C0014,4029,Card,Technical Error,0,Recovered
+TX00054,C0132,8306,Card,Card Expired,5,Not Recovered
+TX00055,C0265,2045,UPI,Insufficient Funds,0,Not Recovered
+TX00056,C0210,8245,Wallet,Insufficient Funds,3,Not Recovered
+TX00057,C0262,9846,Net Banking,Card Expired,0,Not Recovered
+TX00058,C0144,5783,UPI,Bank Timeout,3,Recovered
+TX00059,C0088,9040,Card,Insufficient Funds,4,Not Recovered
+TX00060,C0255,9520,Card,Bank Timeout,1,Not Recovered
+TX00061,C0148,2398,Card,Technical Error,4,Not Recovered
+TX00062,C0179,1288,UPI,Insufficient Funds,5,Not Recovered
+TX00063,C0066,7359,Net Banking,Card Expired,3,Not Recovered
+TX00064,C0295,6571,Card,Payment Declined,2,Not Recovered
+TX00065,C0046,5556,Wallet,Card Expired,2,Not Recovered
+TX00066,C0043,2414,Net Banking,Bank Timeout,3,Not Recovered
+TX00067,C0218,8777,Card,Card Expired,0,Not Recovered
+TX00068,C0161,9267,Wallet,Technical Error,0,Not Recovered
+TX00069,C0133,915,Wallet,Bank Timeout,5,Not Recovered
+TX00070,C0040,4929,Wallet,Bank Timeout,5,Not Recovered
+TX00071,C0112,7630,Card,Payment Declined,0,Not Recovered
+TX00072,C0002,8736,Card,Technical Error,0,Not Recovered
+TX00073,C0196,5589,UPI,Bank Timeout,3,Recovered
+TX00074,C0106,1310,UPI,Insufficient Funds,4,Not Recovered
+TX00075,C0036,700,UPI,Payment Declined,1,Recovered
+TX00076,C0286,5371,Card,Payment Declined,2,Not Recovered
+TX00077,C0299,3111,Card,Technical Error,0,Recovered
+TX00078,C0107,579,Net Banking,Bank Timeout,2,Recovered
+TX00079,C0175,7930,UPI,Bank Timeout,2,Not Recovered
+TX00080,C0244,9978,Wallet,Payment Declined,2,Recovered
+TX00081,C0195,5403,Net Banking,Card Expired,0,Not Recovered
+TX00082,C0134,741,Wallet,Insufficient Funds,5,Not Recovered
+TX00083,C0061,9684,Card,Insufficient Funds,0,Not Recovered
+TX00084,C0014,7954,Net Banking,Insufficient Funds,3,Not Recovered
+TX00085,C0227,9793,Net Banking,Bank Timeout,5,Not Recovered
+TX00086,C0240,8495,Net Banking,Card Expired,2,Not Recovered
+TX00087,C0022,6257,Card,Card Expired,0,Not Recovered
+TX00088,C0204,4566,UPI,Card Expired,4,Not Recovered
+TX00089,C0250,3757,Net Banking,Bank Timeout,0,Recovered
+TX00090,C0048,6169,Wallet,Payment Declined,2,Not Recovered
+TX00091,C0241,891,Net Banking,Technical Error,1,Recovered
+TX00092,C0092,2253,Card,Bank Timeout,2,Recovered
+TX00093,C0112,5354,UPI,Payment Declined,5,Not Recovered
+TX00094,C0138,1470,UPI,Bank Timeout,1,Not Recovered
+TX00095,C0205,3971,Net Banking,Insufficient Funds,1,Not Recovered
+TX00096,C0203,9329,Wallet,Insufficient Funds,0,Recovered
+TX00097,C0155,4444,Card,Insufficient Funds,3,Not Recovered
+TX00098,C0057,4558,Net Banking,Card Expired,2,Not Recovered
+TX00099,C0068,4155,Card,Insufficient Funds,1,Not Recovered
+TX00100,C0016,4863,Wallet,Card Expired,0,Recovered
+TX00101,C0132,6450,Net Banking,Bank Timeout,5,Not Recovered
+TX00102,C0216,9008,UPI,Technical Error,0,Not Recovered
+TX00103,C0120,2128,Net Banking,Payment Declined,5,Recovered
+TX00104,C0223,6058,Wallet,Insufficient Funds,4,Not Recovered
+TX00105,C0238,6223,UPI,Card Expired,0,Not Recovered
+TX00106,C0180,3920,Card,Insufficient Funds,0,Not Recovered
+TX00107,C0136,4980,Wallet,Insufficient Funds,4,Not Recovered
+TX00108,C0186,7540,Card,Bank Timeout,3,Recovered
+TX00109,C0158,6357,Wallet,Bank Timeout,2,Not Recovered
+TX00110,C0194,1502,UPI,Bank Timeout,2,Recovered
+TX00111,C0061,9850,Wallet,Insufficient Funds,1,Not Recovered
+TX00112,C0003,8889,Net Banking,Technical Error,3,Recovered
+TX00113,C0197,6197,Wallet,Card Expired,3,Not Recovered
+TX00114,C0257,1697,Net Banking,Technical Error,4,Recovered
+TX00115,C0019,2543,Card,Card Expired,4,Not Recovered
+TX00116,C0252,4442,Wallet,Insufficient Funds,3,Not Recovered
+TX00117,C0285,1808,Card,Card Expired,5,Not Recovered
+TX00118,C0202,8958,UPI,Card Expired,0,Not Recovered
+TX00119,C0044,5180,Card,Bank Timeout,5,Recovered
+TX00120,C0274,4138,Net Banking,Technical Error,0,Recovered
+TX00121,C0034,2355,Wallet,Insufficient Funds,1,Recovered
+TX00122,C0209,2066,UPI,Card Expired,1,Recovered
+TX00123,C0161,1621,Wallet,Payment Declined,2,Recovered
+TX00124,C0089,2706,Card,Bank Timeout,0,Recovered
+TX00125,C0182,4249,Wallet,Technical Error,5,Recovered
+TX00126,C0128,5525,Net Banking,Bank Timeout,0,Recovered
+TX00127,C0080,5608,Card,Technical Error,0,Recovered
+TX00128,C0027,155,UPI,Card Expired,3,Not Recovered
+TX00129,C0203,5114,Card,Technical Error,4,Not Recovered
+TX00130,C0250,657,Net Banking,Payment Declined,4,Not Recovered
+TX00131,C0224,5510,Net Banking,Technical Error,5,Not Recovered
+TX00132,C0097,2456,Net Banking,Technical Error,3,Not Recovered
+TX00133,C0014,3369,Card,Card Expired,4,Not Recovered
+TX00134,C0174,3109,Wallet,Insufficient Funds,3,Not Recovered
+TX00135,C0117,9560,Card,Card Expired,1,Not Recovered
+TX00136,C0012,5025,Card,Insufficient Funds,1,Not Recovered
+TX00137,C0190,7054,Net Banking,Card Expired,5,Not Recovered
+TX00138,C0256,3217,Card,Card Expired,4,Not Recovered
+TX00139,C0246,457,UPI,Technical Error,1,Not Recovered
+TX00140,C0242,8126,Card,Bank Timeout,1,Not Recovered
+TX00141,C0271,4252,Card,Payment Declined,2,Not Recovered
+TX00142,C0156,1046,UPI,Bank Timeout,4,Recovered
+TX00143,C0222,3492,Net Banking,Technical Error,3,Not Recovered
+TX00144,C0124,2679,UPI,Technical Error,0,Recovered
+TX00145,C0177,5798,Wallet,Card Expired,1,Not Recovered
+TX00146,C0290,1010,Wallet,Technical Error,1,Recovered
+TX00147,C0147,4194,Card,Insufficient Funds,2,Not Recovered
+TX00148,C0092,5330,Card,Insufficient Funds,3,Recovered
+TX00149,C0071,3825,UPI,Payment Declined,4,Not Recovered
+TX00150,C0256,892,Net Banking,Bank Timeout,3,Recovered
+TX00151,C0161,6053,Card,Technical Error,5,Not Recovered
+TX00152,C0162,1483,UPI,Payment Declined,3,Recovered
+TX00153,C0152,9102,Net Banking,Technical Error,0,Recovered
+TX00154,C0252,2159,Net Banking,Payment Declined,3,Not Recovered
+TX00155,C0136,8070,Card,Insufficient Funds,0,Not Recovered
+TX00156,C0138,8308,Net Banking,Payment Declined,4,Recovered
+TX00157,C0206,7202,Net Banking,Card Expired,3,Not Recovered
+TX00158,C0172,8833,Wallet,Bank Timeout,2,Recovered
+TX00159,C0276,6700,Net Banking,Technical Error,2,Recovered
+TX00160,C0196,5942,Net Banking,Payment Declined,4,Not Recovered
+TX00161,C0173,6664,Card,Payment Declined,5,Not Recovered
+TX00162,C0097,7343,Wallet,Bank Timeout,0,Not Recovered
+TX00163,C0186,6219,Net Banking,Card Expired,1,Not Recovered
+TX00164,C0248,6605,Wallet,Technical Error,2,Not Recovered
+TX00165,C0077,8418,UPI,Insufficient Funds,0,Recovered
+TX00166,C0033,3810,Card,Card Expired,2,Not Recovered
+TX00167,C0256,8357,Net Banking,Insufficient Funds,5,Not Recovered
+TX00168,C0167,8990,Wallet,Insufficient Funds,3,Not Recovered
+TX00169,C0212,2788,Net Banking,Payment Declined,0,Not Recovered
+TX00170,C0144,8985,UPI,Technical Error,2,Recovered
+TX00171,C0193,5175,Card,Bank Timeout,2,Recovered
+TX00172,C0259,5851,Wallet,Technical Error,0,Recovered
+TX00173,C0019,4160,UPI,Technical Error,0,Not Recovered
+TX00174,C0103,529,Net Banking,Card Expired,0,Not Recovered
+TX00175,C0027,1288,Card,Insufficient Funds,2,Not Recovered
+TX00176,C0218,662,Net Banking,Insufficient Funds,1,Not Recovered
+TX00177,C0045,4923,UPI,Technical Error,5,Not Recovered
+TX00178,C0133,7659,Card,Bank Timeout,5,Recovered
+TX00179,C0176,3672,Wallet,Bank Timeout,4,Not Recovered
+TX00180,C0001,3483,Wallet,Technical Error,2,Recovered
+TX00181,C0130,9476,Wallet,Payment Declined,4,Not Recovered
+TX00182,C0200,6381,UPI,Technical Error,2,Recovered
+TX00183,C0297,4480,Card,Technical Error,2,Not Recovered
+TX00184,C0237,8753,Wallet,Bank Timeout,2,Recovered
+TX00185,C0035,4525,Net Banking,Payment Declined,4,Not Recovered
+TX00186,C0217,7971,Net Banking,Insufficient Funds,2,Not Recovered
+TX00187,C0193,3225,UPI,Bank Timeout,1,Recovered
+TX00188,C0054,8963,Card,Card Expired,0,Not Recovered
+TX00189,C0206,4690,Net Banking,Payment Declined,0,Not Recovered
+TX00190,C0267,8715,Card,Bank Timeout,1,Recovered
+TX00191,C0143,3563,UPI,Bank Timeout,3,Recovered
+TX00192,C0184,3953,Net Banking,Technical Error,5,Not Recovered
+TX00193,C0109,8594,UPI,Insufficient Funds,3,Not Recovered
+TX00194,C0258,3482,Card,Card Expired,5,Not Recovered
+TX00195,C0026,732,Wallet,Bank Timeout,4,Recovered
+TX00196,C0203,3711,Wallet,Payment Declined,2,Not Recovered
+TX00197,C0205,5508,Card,Card Expired,2,Not Recovered
+TX00198,C0159,3734,Card,Card Expired,0,Not Recovered
+TX00199,C0252,8543,Wallet,Payment Declined,5,Not Recovered
+TX00200,C0014,6597,Card,Payment Declined,1,Recovered
+TX00201,C0299,680,Net Banking,Technical Error,4,Recovered
+TX00202,C0157,9227,Net Banking,Card Expired,1,Not Recovered
+TX00203,C0267,742,Net Banking,Technical Error,5,Not Recovered
+TX00204,C0076,2488,Wallet,Bank Timeout,5,Not Recovered
+TX00205,C0165,2395,Net Banking,Card Expired,4,Not Recovered
+TX00206,C0108,4016,Card,Insufficient Funds,0,Not Recovered
+TX00207,C0095,7982,UPI,Bank Timeout,2,Not Recovered
+TX00208,C0161,7605,Wallet,Insufficient Funds,1,Recovered
+TX00209,C0069,5695,Net Banking,Bank Timeout,5,Recovered
+TX00210,C0263,4623,Card,Insufficient Funds,2,Not Recovered
+TX00211,C0098,2805,Card,Technical Error,0,Not Recovered
+TX00212,C0296,1129,Card,Insufficient Funds,3,Not Recovered
+TX00213,C0046,1361,Net Banking,Payment Declined,4,Not Recovered
+TX00214,C0174,4230,UPI,Insufficient Funds,5,Not Recovered
+TX00215,C0198,3195,Wallet,Bank Timeout,4,Recovered
+TX00216,C0237,4287,UPI,Payment Declined,3,Not Recovered
+TX00217,C0238,3409,Wallet,Insufficient Funds,3,Not Recovered
+TX00218,C0209,1382,UPI,Technical Error,5,Not Recovered
+TX00219,C0154,3027,Net Banking,Bank Timeout,4,Recovered
+TX00220,C0112,1860,UPI,Card Expired,0,Not Recovered
+TX00221,C0089,6076,UPI,Technical Error,0,Recovered
+TX00222,C0223,8322,UPI,Card Expired,2,Not Recovered
+TX00223,C0224,8520,Wallet,Insufficient Funds,0,Not Recovered
+TX00224,C0228,4373,Wallet,Payment Declined,3,Not Recovered
+TX00225,C0228,4946,Card,Bank Timeout,2,Recovered
+TX00226,C0095,9063,Net Banking,Technical Error,1,Recovered
+TX00227,C0060,968,UPI,Technical Error,3,Recovered
+TX00228,C0047,4437,UPI,Insufficient Funds,4,Not Recovered
+TX00229,C0083,9857,Net Banking,Technical Error,2,Recovered
+TX00230,C0113,8118,Net Banking,Bank Timeout,2,Recovered
+TX00231,C0166,6184,Net Banking,Payment Declined,3,Recovered
+TX00232,C0207,8285,UPI,Payment Declined,0,Recovered
+TX00233,C0102,290,Wallet,Insufficient Funds,0,Not Recovered
+TX00234,C0041,1797,Wallet,Technical Error,1,Not Recovered
+TX00235,C0284,6264,Wallet,Payment Declined,1,Not Recovered
+TX00236,C0092,4177,Wallet,Bank Timeout,3,Recovered
+TX00237,C0226,1120,UPI,Technical Error,5,Not Recovered
+TX00238,C0141,5207,UPI,Insufficient Funds,5,Not Recovered
+TX00239,C0258,522,Wallet,Insufficient Funds,3,Recovered
+TX00240,C0228,4873,UPI,Card Expired,4,Not Recovered
+TX00241,C0020,9638,Wallet,Card Expired,1,Not Recovered
+TX00242,C0106,5121,UPI,Payment Declined,5,Not Recovered
+TX00243,C0222,3645,Wallet,Card Expired,3,Not Recovered
+TX00244,C0214,651,Net Banking,Card Expired,1,Not Recovered
+TX00245,C0077,5699,Wallet,Card Expired,0,Not Recovered
+TX00246,C0145,9510,Net Banking,Payment Declined,4,Not Recovered
+TX00247,C0074,6459,Wallet,Bank Timeout,1,Not Recovered
+TX00248,C0281,9938,Net Banking,Insufficient Funds,4,Not Recovered
+TX00249,C0067,6220,Wallet,Insufficient Funds,5,Not Recovered
+TX00250,C0238,1670,Card,Insufficient Funds,4,Not Recovered
+TX00251,C0264,7927,Wallet,Insufficient Funds,4,Not Recovered
+TX00252,C0241,3594,Card,Insufficient Funds,0,Not Recovered
+TX00253,C0171,4750,Wallet,Payment Declined,2,Not Recovered
+TX00254,C0144,3045,Wallet,Insufficient Funds,1,Not Recovered
+TX00255,C0248,6219,Net Banking,Card Expired,1,Not Recovered
+TX00256,C0133,6770,UPI,Technical Error,0,Recovered
+TX00257,C0063,3198,Wallet,Payment Declined,1,Not Recovered
+TX00258,C0224,4229,UPI,Technical Error,1,Recovered
+TX00259,C0204,7538,UPI,Technical Error,3,Recovered
+TX00260,C0284,2313,Net Banking,Bank Timeout,1,Recovered
+TX00261,C0059,1961,Net Banking,Payment Declined,1,Not Recovered
+TX00262,C0151,4737,Card,Card Expired,1,Not Recovered
+TX00263,C0032,4905,Card,Card Expired,4,Not Recovered
+TX00264,C0169,7438,Net Banking,Card Expired,4,Not Recovered
+TX00265,C0260,1113,UPI,Card Expired,4,Not Recovered
+TX00266,C0237,4442,Card,Bank Timeout,4,Not Recovered
+TX00267,C0191,4795,Net Banking,Payment Declined,0,Not Recovered
+TX00268,C0179,7893,Card,Insufficient Funds,2,Not Recovered
+TX00269,C0031,7115,UPI,Bank Timeout,5,Recovered
+TX00270,C0168,5937,Wallet,Bank Timeout,4,Recovered
+TX00271,C0046,5279,UPI,Card Expired,0,Not Recovered
+TX00272,C0064,3315,Net Banking,Technical Error,2,Recovered
+TX00273,C0153,9352,Net Banking,Insufficient Funds,3,Not Recovered
+TX00274,C0219,9614,Wallet,Insufficient Funds,0,Not Recovered
+TX00275,C0170,6897,UPI,Card Expired,4,Not Recovered
+TX00276,C0012,6422,UPI,Payment Declined,3,Not Recovered
+TX00277,C0117,6087,Wallet,Payment Declined,4,Not Recovered
+TX00278,C0187,6776,Wallet,Technical Error,2,Not Recovered
+TX00279,C0065,7943,Wallet,Technical Error,4,Not Recovered
+TX00280,C0096,220,UPI,Bank Timeout,4,Recovered
+TX00281,C0145,188,UPI,Bank Timeout,3,Recovered
+TX00282,C0109,5546,Net Banking,Bank Timeout,5,Recovered
+TX00283,C0292,5129,Net Banking,Technical Error,4,Recovered
+TX00284,C0226,6768,Net Banking,Payment Declined,0,Not Recovered
+TX00285,C0242,3573,Card,Card Expired,2,Not Recovered
+TX00286,C0292,1154,Net Banking,Card Expired,4,Not Recovered
+TX00287,C0135,8070,UPI,Insufficient Funds,3,Not Recovered
+TX00288,C0180,8483,Card,Insufficient Funds,4,Not Recovered
+TX00289,C0286,2770,Card,Technical Error,3,Recovered
+TX00290,C0134,4560,Card,Insufficient Funds,2,Not Recovered
+TX00291,C0015,8177,Card,Technical Error,2,Recovered
+TX00292,C0288,3719,Net Banking,Bank Timeout,1,Recovered
+TX00293,C0242,3516,UPI,Bank Timeout,4,Recovered
+TX00294,C0121,2443,Card,Insufficient Funds,5,Not Recovered
+TX00295,C0180,9417,Wallet,Technical Error,4,Not Recovered
+TX00296,C0155,2912,Card,Payment Declined,5,Not Recovered
+TX00297,C0288,4790,UPI,Technical Error,3,Recovered
+TX00298,C0054,9175,Card,Insufficient Funds,0,Not Recovered
+TX00299,C0069,1364,UPI,Payment Declined,5,Not Recovered
+TX00300,C0139,5618,UPI,Insufficient Funds,2,Not Recovered
+TX00301,C0115,9457,Net Banking,Technical Error,1,Recovered
+TX00302,C0257,5222,Card,Technical Error,4,Not Recovered
+TX00303,C0069,2792,UPI,Bank Timeout,4,Recovered
+TX00304,C0012,6320,Wallet,Technical Error,1,Recovered
+TX00305,C0127,9110,Card,Card Expired,0,Not Recovered
+TX00306,C0194,322,UPI,Card Expired,4,Not Recovered
+TX00307,C0274,737,UPI,Card Expired,4,Recovered
+TX00308,C0060,5898,Wallet,Payment Declined,1,Not Recovered
+TX00309,C0119,6185,Card,Bank Timeout,2,Not Recovered
+TX00310,C0166,946,Card,Payment Declined,5,Recovered
+TX00311,C0123,7481,Wallet,Insufficient Funds,4,Not Recovered
+TX00312,C0094,2595,Card,Payment Declined,2,Recovered
+TX00313,C0054,7423,Card,Payment Declined,4,Not Recovered
+TX00314,C0213,9847,Card,Technical Error,4,Not Recovered
+TX00315,C0211,2883,Card,Payment Declined,2,Recovered
+TX00316,C0163,6814,UPI,Technical Error,4,Recovered
+TX00317,C0017,6373,Net Banking,Technical Error,5,Not Recovered
+TX00318,C0023,2775,Card,Payment Declined,2,Not Recovered
+TX00319,C0133,7023,Wallet,Card Expired,3,Not Recovered
+TX00320,C0049,6970,Net Banking,Technical Error,2,Not Recovered
+TX00321,C0225,8735,Wallet,Insufficient Funds,2,Not Recovered
+TX00322,C0057,1542,Card,Payment Declined,1,Not Recovered
+TX00323,C0104,1790,Wallet,Payment Declined,0,Recovered
+TX00324,C0234,3248,Wallet,Bank Timeout,4,Not Recovered
+TX00325,C0266,4590,Wallet,Bank Timeout,4,Not Recovered
+TX00326,C0167,9579,Net Banking,Technical Error,5,Not Recovered
+TX00327,C0210,4081,Net Banking,Bank Timeout,1,Recovered
+TX00328,C0292,3953,Net Banking,Bank Timeout,4,Recovered
+TX00329,C0275,8275,Card,Insufficient Funds,4,Not Recovered
+TX00330,C0278,864,Wallet,Payment Declined,2,Recovered
+TX00331,C0257,7360,UPI,Technical Error,2,Recovered
+TX00332,C0283,6871,Net Banking,Insufficient Funds,5,Not Recovered
+TX00333,C0106,5950,Wallet,Technical Error,3,Not Recovered
+TX00334,C0193,6299,UPI,Insufficient Funds,3,Not Recovered
+TX00335,C0254,8745,UPI,Bank Timeout,1,Recovered
+TX00336,C0298,7206,UPI,Payment Declined,2,Not Recovered
+TX00337,C0242,4991,Net Banking,Payment Declined,5,Not Recovered
+TX00338,C0174,9570,Net Banking,Technical Error,1,Recovered
+TX00339,C0116,3520,UPI,Bank Timeout,4,Not Recovered
+TX00340,C0191,8048,Card,Insufficient Funds,2,Not Recovered
+TX00341,C0216,9750,Card,Insufficient Funds,4,Not Recovered
+TX00342,C0260,9448,Card,Bank Timeout,3,Not Recovered
+TX00343,C0043,9262,Net Banking,Insufficient Funds,3,Not Recovered
+TX00344,C0018,4465,Net Banking,Card Expired,1,Not Recovered
+TX00345,C0242,9424,Wallet,Card Expired,1,Not Recovered
+TX00346,C0191,4866,Card,Payment Declined,0,Recovered
+TX00347,C0280,4340,Card,Technical Error,4,Not Recovered
+TX00348,C0002,6780,Wallet,Insufficient Funds,3,Not Recovered
+TX00349,C0249,4029,UPI,Technical Error,3,Recovered
+TX00350,C0092,3422,UPI,Bank Timeout,1,Recovered
+TX00351,C0210,9539,Wallet,Card Expired,0,Not Recovered
+TX00352,C0166,8194,Net Banking,Card Expired,3,Not Recovered
+TX00353,C0140,4112,UPI,Technical Error,3,Not Recovered
+TX00354,C0261,7322,Wallet,Card Expired,1,Not Recovered
+TX00355,C0093,5743,Net Banking,Insufficient Funds,4,Not Recovered
+TX00356,C0203,5319,Wallet,Bank Timeout,4,Recovered
+TX00357,C0104,7855,UPI,Technical Error,5,Not Recovered
+TX00358,C0196,3813,UPI,Insufficient Funds,4,Not Recovered
+TX00359,C0008,7516,Wallet,Insufficient Funds,5,Not Recovered
+TX00360,C0173,4833,Card,Card Expired,1,Not Recovered
+TX00361,C0047,4147,Wallet,Insufficient Funds,1,Recovered
+TX00362,C0202,996,Wallet,Bank Timeout,0,Recovered
+TX00363,C0014,7249,Wallet,Payment Declined,3,Recovered
+TX00364,C0216,9276,Card,Technical Error,2,Recovered
+TX00365,C0049,3008,Net Banking,Payment Declined,4,Not Recovered
+TX00366,C0166,7712,UPI,Insufficient Funds,5,Not Recovered
+TX00367,C0137,5770,Card,Technical Error,5,Not Recovered
+TX00368,C0151,777,Card,Bank Timeout,5,Recovered
+TX00369,C0112,3101,Net Banking,Technical Error,0,Recovered
+TX00370,C0222,2943,Wallet,Bank Timeout,5,Not Recovered
+TX00371,C0242,9433,UPI,Bank Timeout,5,Not Recovered
+TX00372,C0011,9299,UPI,Bank Timeout,0,Recovered
+TX00373,C0279,1960,Card,Bank Timeout,4,Recovered
+TX00374,C0206,2825,UPI,Bank Timeout,1,Recovered
+TX00375,C0139,7081,Wallet,Payment Declined,4,Not Recovered
+TX00376,C0214,8796,Card,Bank Timeout,1,Recovered
+TX00377,C0261,9208,Card,Technical Error,5,Recovered
+TX00378,C0179,9703,UPI,Card Expired,2,Not Recovered
+TX00379,C0156,6239,Wallet,Technical Error,0,Not Recovered
+TX00380,C0178,7554,UPI,Insufficient Funds,4,Not Recovered
+TX00381,C0188,5718,Card,Payment Declined,0,Recovered
+TX00382,C0009,9448,Net Banking,Payment Declined,3,Not Recovered
+TX00383,C0048,8836,Card,Technical Error,0,Recovered
+TX00384,C0021,8793,Wallet,Technical Error,0,Recovered
+TX00385,C0044,6104,Card,Technical Error,3,Not Recovered
+TX00386,C0051,964,Net Banking,Bank Timeout,3,Recovered
+TX00387,C0250,8357,Wallet,Technical Error,2,Not Recovered
+TX00388,C0160,6709,Net Banking,Insufficient Funds,2,Not Recovered
+TX00389,C0166,8444,UPI,Technical Error,1,Not Recovered
+TX00390,C0163,5100,Wallet,Card Expired,2,Not Recovered
+TX00391,C0061,6982,UPI,Bank Timeout,2,Recovered
+TX00392,C0180,4907,Card,Technical Error,1,Recovered
+TX00393,C0126,2426,Net Banking,Technical Error,3,Not Recovered
+TX00394,C0127,3954,Card,Bank Timeout,4,Recovered
+TX00395,C0159,3130,UPI,Payment Declined,1,Not Recovered
+TX00396,C0049,2442,Net Banking,Bank Timeout,3,Recovered
+TX00397,C0172,1367,UPI,Insufficient Funds,4,Not Recovered
+TX00398,C0074,4087,UPI,Card Expired,3,Not Recovered
+TX00399,C0026,6198,Card,Payment Declined,0,Not Recovered
+TX00400,C0118,3733,Wallet,Bank Timeout,2,Not Recovered
+TX00401,C0093,8455,Wallet,Insufficient Funds,1,Not Recovered
+TX00402,C0157,2585,UPI,Bank Timeout,3,Recovered
+TX00403,C0223,269,Wallet,Bank Timeout,5,Recovered
+TX00404,C0292,7060,Net Banking,Technical Error,3,Recovered
+TX00405,C0263,5722,Net Banking,Bank Timeout,2,Not Recovered
+TX00406,C0051,4064,Net Banking,Bank Timeout,2,Recovered
+TX00407,C0163,2944,Card,Bank Timeout,2,Recovered
+TX00408,C0203,1693,UPI,Card Expired,4,Not Recovered
+TX00409,C0046,6208,Wallet,Insufficient Funds,1,Recovered
+TX00410,C0080,3849,Card,Bank Timeout,4,Recovered
+TX00411,C0036,6973,UPI,Card Expired,2,Not Recovered
+TX00412,C0177,1745,Wallet,Payment Declined,5,Recovered
+TX00413,C0091,639,Card,Technical Error,2,Recovered
+TX00414,C0082,7229,UPI,Insufficient Funds,0,Not Recovered
+TX00415,C0161,7344,UPI,Bank Timeout,0,Recovered
+TX00416,C0264,5773,UPI,Card Expired,1,Not Recovered
+TX00417,C0178,5627,UPI,Card Expired,2,Not Recovered
+TX00418,C0008,3175,Card,Payment Declined,4,Not Recovered
+TX00419,C0040,8856,Wallet,Payment Declined,1,Recovered
+TX00420,C0173,4972,Wallet,Bank Timeout,3,Not Recovered
+TX00421,C0242,7421,Wallet,Technical Error,2,Recovered
+TX00422,C0219,5506,Net Banking,Insufficient Funds,0,Not Recovered
+TX00423,C0277,6542,Card,Payment Declined,3,Recovered
+TX00424,C0250,5199,Card,Payment Declined,3,Not Recovered
+TX00425,C0070,5633,Net Banking,Insufficient Funds,5,Not Recovered
+TX00426,C0246,9508,Net Banking,Technical Error,0,Recovered
+TX00427,C0109,2283,UPI,Payment Declined,2,Not Recovered
+TX00428,C0150,8227,Card,Card Expired,2,Not Recovered
+TX00429,C0217,6160,Card,Insufficient Funds,2,Recovered
+TX00430,C0002,7155,Card,Insufficient Funds,2,Not Recovered
+TX00431,C0209,1218,Wallet,Insufficient Funds,0,Not Recovered
+TX00432,C0163,4842,Card,Payment Declined,4,Not Recovered
+TX00433,C0134,9109,UPI,Payment Declined,0,Recovered
+TX00434,C0187,4538,Wallet,Technical Error,3,Recovered
+TX00435,C0137,1002,Wallet,Bank Timeout,2,Recovered
+TX00436,C0263,100,Wallet,Payment Declined,1,Not Recovered
+TX00437,C0021,6319,Net Banking,Card Expired,5,Not Recovered
+TX00438,C0117,3315,Card,Insufficient Funds,1,Recovered
+TX00439,C0097,5550,Card,Payment Declined,2,Not Recovered
+TX00440,C0218,4266,Card,Card Expired,5,Not Recovered
+TX00441,C0210,4416,UPI,Card Expired,4,Recovered
+TX00442,C0203,7007,UPI,Technical Error,5,Not Recovered
+TX00443,C0071,9042,Net Banking,Bank Timeout,5,Not Recovered
+TX00444,C0148,1149,UPI,Card Expired,2,Not Recovered
+TX00445,C0233,2944,UPI,Card Expired,1,Not Recovered
+TX00446,C0086,5002,Wallet,Bank Timeout,3,Not Recovered
+TX00447,C0268,7242,Wallet,Card Expired,2,Not Recovered
+TX00448,C0072,2766,UPI,Insufficient Funds,1,Not Recovered
+TX00449,C0286,7455,Net Banking,Bank Timeout,3,Recovered
+TX00450,C0055,9596,UPI,Insufficient Funds,0,Not Recovered
+TX00451,C0272,2750,UPI,Technical Error,1,Recovered
+TX00452,C0068,1051,UPI,Technical Error,4,Not Recovered
+TX00453,C0070,5934,Net Banking,Insufficient Funds,4,Recovered
+TX00454,C0263,8404,Wallet,Bank Timeout,3,Not Recovered
+TX00455,C0155,3307,Net Banking,Payment Declined,3,Not Recovered
+TX00456,C0018,3887,Card,Payment Declined,2,Not Recovered
+TX00457,C0006,7530,Card,Insufficient Funds,1,Not Recovered
+TX00458,C0264,229,Card,Payment Declined,2,Not Recovered
+TX00459,C0289,9626,Card,Card Expired,4,Not Recovered
+TX00460,C0209,882,Card,Bank Timeout,4,Recovered
+TX00461,C0225,3857,UPI,Payment Declined,5,Not Recovered
+TX00462,C0140,2400,UPI,Payment Declined,1,Not Recovered
+TX00463,C0178,9241,Card,Bank Timeout,3,Recovered
+TX00464,C0063,7362,UPI,Technical Error,5,Not Recovered
+TX00465,C0124,9955,UPI,Card Expired,1,Not Recovered
+TX00466,C0220,3154,Net Banking,Card Expired,2,Not Recovered
+TX00467,C0151,7515,Card,Insufficient Funds,5,Not Recovered
+TX00468,C0237,2257,Card,Payment Declined,3,Not Recovered
+TX00469,C0062,6465,Wallet,Payment Declined,3,Not Recovered
+TX00470,C0133,4474,Card,Bank Timeout,0,Recovered
+TX00471,C0288,5654,Wallet,Insufficient Funds,4,Not Recovered
+TX00472,C0124,9274,Net Banking,Insufficient Funds,1,Not Recovered
+TX00473,C0026,7832,Card,Payment Declined,0,Not Recovered
+TX00474,C0269,6458,UPI,Technical Error,4,Not Recovered
+TX00475,C0096,4861,Wallet,Technical Error,0,Recovered
+TX00476,C0128,8298,Card,Technical Error,5,Recovered
+TX00477,C0142,3075,Net Banking,Insufficient Funds,1,Not Recovered
+TX00478,C0265,4713,Net Banking,Bank Timeout,5,Recovered
+TX00479,C0081,7656,Wallet,Card Expired,0,Not Recovered
+TX00480,C0064,6435,UPI,Technical Error,5,Recovered
+TX00481,C0216,3762,Card,Payment Declined,3,Recovered
+TX00482,C0061,9911,Net Banking,Insufficient Funds,2,Not Recovered
+TX00483,C0246,5299,Wallet,Card Expired,4,Not Recovered
+TX00484,C0160,4628,Wallet,Insufficient Funds,2,Not Recovered
+TX00485,C0043,6745,Wallet,Payment Declined,1,Not Recovered
+TX00486,C0168,6982,Card,Bank Timeout,3,Recovered
+TX00487,C0064,3926,Net Banking,Insufficient Funds,4,Recovered
+TX00488,C0196,6963,Card,Card Expired,4,Not Recovered
+TX00489,C0286,7875,Wallet,Technical Error,3,Recovered
+TX00490,C0250,2416,Wallet,Card Expired,5,Not Recovered
+TX00491,C0182,5496,Net Banking,Insufficient Funds,2,Not Recovered
+TX00492,C0299,7089,UPI,Card Expired,4,Not Recovered
+TX00493,C0244,7683,UPI,Insufficient Funds,4,Not Recovered
+TX00494,C0182,3699,Net Banking,Card Expired,5,Not Recovered
+TX00495,C0195,1304,UPI,Technical Error,5,Not Recovered
+TX00496,C0173,9019,UPI,Payment Declined,4,Not Recovered
+TX00497,C0138,2142,Wallet,Payment Declined,4,Not Recovered
+TX00498,C0182,5614,Wallet,Card Expired,2,Not Recovered
+TX00499,C0051,2405,Card,Technical Error,4,Not Recovered
+TX00500,C0063,3938,Wallet,Card Expired,5,Not Recovered
+TX00501,C0036,9775,Card,Card Expired,0,Not Recovered
+TX00502,C0083,4117,Card,Card Expired,5,Not Recovered
+TX00503,C0209,8966,Net Banking,Payment Declined,4,Recovered
+TX00504,C0015,5250,UPI,Bank Timeout,1,Not Recovered
+TX00505,C0257,3137,Net Banking,Technical Error,3,Not Recovered
+TX00506,C0027,259,Wallet,Insufficient Funds,3,Recovered
+TX00507,C0214,2216,Wallet,Technical Error,5,Not Recovered
+TX00508,C0011,3855,Wallet,Technical Error,1,Recovered
+TX00509,C0078,1592,Net Banking,Payment Declined,2,Not Recovered
+TX00510,C0018,2493,Card,Payment Declined,5,Not Recovered
+TX00511,C0191,5405,UPI,Technical Error,0,Recovered
+TX00512,C0272,9184,Wallet,Payment Declined,4,Not Recovered
+TX00513,C0178,8151,Card,Bank Timeout,0,Recovered
+TX00514,C0152,2410,Wallet,Card Expired,0,Not Recovered
+TX00515,C0296,2859,Wallet,Insufficient Funds,1,Not Recovered
+TX00516,C0093,4353,Wallet,Payment Declined,2,Not Recovered
+TX00517,C0033,3593,Card,Insufficient Funds,5,Not Recovered
+TX00518,C0178,2628,Wallet,Insufficient Funds,5,Not Recovered
+TX00519,C0071,658,UPI,Card Expired,3,Recovered
+TX00520,C0081,7726,UPI,Bank Timeout,0,Not Recovered
+TX00521,C0062,6773,Wallet,Card Expired,0,Not Recovered
+TX00522,C0189,8283,Card,Card Expired,3,Not Recovered
+TX00523,C0249,2867,UPI,Insufficient Funds,2,Not Recovered
+TX00524,C0189,6721,UPI,Payment Declined,0,Recovered
+TX00525,C0256,4712,Wallet,Insufficient Funds,3,Not Recovered
+TX00526,C0177,2252,Net Banking,Card Expired,5,Not Recovered
+TX00527,C0289,541,UPI,Payment Declined,2,Not Recovered
+TX00528,C0292,2273,Card,Insufficient Funds,3,Not Recovered
+TX00529,C0216,4168,Card,Card Expired,0,Not Recovered
+TX00530,C0095,7822,Card,Bank Timeout,5,Not Recovered
+TX00531,C0040,9713,Net Banking,Insufficient Funds,1,Not Recovered
+TX00532,C0227,6298,Net Banking,Insufficient Funds,0,Not Recovered
+TX00533,C0047,6820,Card,Insufficient Funds,0,Recovered
+TX00534,C0258,5509,Card,Payment Declined,0,Not Recovered
+TX00535,C0028,9126,Wallet,Card Expired,3,Not Recovered
+TX00536,C0154,3196,UPI,Technical Error,5,Recovered
+TX00537,C0131,7611,Net Banking,Card Expired,2,Not Recovered
+TX00538,C0094,7771,Card,Card Expired,5,Recovered
+TX00539,C0003,1157,Card,Technical Error,0,Not Recovered
+TX00540,C0098,8241,Card,Bank Timeout,3,Not Recovered
+TX00541,C0255,5941,Wallet,Bank Timeout,5,Not Recovered
+TX00542,C0228,7093,Net Banking,Card Expired,1,Not Recovered
+TX00543,C0031,4687,Wallet,Insufficient Funds,1,Not Recovered
+TX00544,C0250,5330,Wallet,Bank Timeout,5,Not Recovered
+TX00545,C0187,6720,Wallet,Payment Declined,3,Not Recovered
+TX00546,C0286,3613,Wallet,Bank Timeout,5,Recovered
+TX00547,C0240,2072,UPI,Insufficient Funds,5,Not Recovered
+TX00548,C0061,8368,Card,Card Expired,0,Not Recovered
+TX00549,C0260,417,Net Banking,Bank Timeout,1,Not Recovered
+TX00550,C0285,995,Net Banking,Card Expired,3,Not Recovered
+TX00551,C0016,8896,Net Banking,Insufficient Funds,4,Not Recovered
+TX00552,C0268,1481,Card,Payment Declined,0,Recovered
+TX00553,C0157,5386,UPI,Insufficient Funds,5,Not Recovered
+TX00554,C0257,7943,Net Banking,Bank Timeout,5,Not Recovered
+TX00555,C0076,8624,Net Banking,Insufficient Funds,0,Not Recovered
+TX00556,C0115,6612,Wallet,Payment Declined,5,Not Recovered
+TX00557,C0200,3398,Net Banking,Insufficient Funds,2,Recovered
+TX00558,C0144,8768,Net Banking,Insufficient Funds,2,Not Recovered
+TX00559,C0189,7898,Card,Technical Error,3,Recovered
+TX00560,C0112,9295,UPI,Technical Error,0,Recovered
+TX00561,C0212,1963,UPI,Payment Declined,3,Not Recovered
+TX00562,C0018,7979,Wallet,Technical Error,3,Not Recovered
+TX00563,C0293,7327,UPI,Insufficient Funds,3,Not Recovered
+TX00564,C0107,8246,Net Banking,Insufficient Funds,3,Not Recovered
+TX00565,C0217,9759,UPI,Bank Timeout,2,Recovered
+TX00566,C0022,2575,UPI,Technical Error,0,Recovered
+TX00567,C0158,8778,Wallet,Bank Timeout,4,Not Recovered
+TX00568,C0027,9106,UPI,Insufficient Funds,1,Not Recovered
+TX00569,C0090,1585,Wallet,Insufficient Funds,4,Not Recovered
+TX00570,C0217,7598,Net Banking,Payment Declined,0,Recovered
+TX00571,C0274,7068,Net Banking,Insufficient Funds,0,Not Recovered
+TX00572,C0069,1468,Card,Payment Declined,5,Not Recovered
+TX00573,C0248,9847,UPI,Bank Timeout,2,Recovered
+TX00574,C0279,1796,UPI,Technical Error,0,Recovered
+TX00575,C0151,6775,Card,Insufficient Funds,2,Not Recovered
+TX00576,C0229,284,Card,Insufficient Funds,5,Not Recovered
+TX00577,C0086,5368,UPI,Payment Declined,3,Recovered
+TX00578,C0049,2510,UPI,Insufficient Funds,3,Not Recovered
+TX00579,C0239,5019,UPI,Technical Error,1,Recovered
+TX00580,C0140,4972,Net Banking,Insufficient Funds,3,Not Recovered
+TX00581,C0173,9949,UPI,Bank Timeout,3,Recovered
+TX00582,C0251,8026,UPI,Insufficient Funds,0,Recovered
+TX00583,C0092,3820,UPI,Technical Error,3,Recovered
+TX00584,C0239,7506,UPI,Insufficient Funds,3,Not Recovered
+TX00585,C0289,9139,Card,Payment Declined,5,Not Recovered
+TX00586,C0247,6373,Net Banking,Payment Declined,4,Not Recovered
+TX00587,C0160,5738,Card,Bank Timeout,2,Not Recovered
+TX00588,C0261,5754,UPI,Payment Declined,0,Not Recovered
+TX00589,C0044,4753,Card,Insufficient Funds,2,Recovered
+TX00590,C0078,1242,Wallet,Card Expired,2,Recovered
+TX00591,C0004,4592,Net Banking,Card Expired,4,Not Recovered
+TX00592,C0118,4608,Card,Technical Error,0,Recovered
+TX00593,C0136,4649,Wallet,Insufficient Funds,4,Not Recovered
+TX00594,C0214,1867,Card,Technical Error,4,Not Recovered
+TX00595,C0154,9641,Card,Technical Error,0,Recovered
+TX00596,C0299,8005,Wallet,Card Expired,1,Not Recovered
+TX00597,C0120,7862,Net Banking,Bank Timeout,3,Recovered
+TX00598,C0123,3839,Card,Technical Error,3,Not Recovered
+TX00599,C0102,9170,Wallet,Insufficient Funds,1,Not Recovered
+TX00600,C0119,6275,Wallet,Bank Timeout,3,Recovered
+TX00601,C0208,9719,UPI,Payment Declined,3,Not Recovered
+TX00602,C0078,817,Card,Payment Declined,3,Not Recovered
+TX00603,C0178,6527,Net Banking,Insufficient Funds,3,Not Recovered
+TX00604,C0001,381,Wallet,Card Expired,0,Not Recovered
+TX00605,C0247,4849,Wallet,Insufficient Funds,3,Not Recovered
+TX00606,C0059,1859,Wallet,Technical Error,5,Recovered
+TX00607,C0127,2701,Wallet,Technical Error,4,Recovered
+TX00608,C0006,7746,Net Banking,Payment Declined,2,Not Recovered
+TX00609,C0053,4024,Card,Technical Error,1,Recovered
+TX00610,C0013,4036,Card,Payment Declined,1,Recovered
+TX00611,C0244,6828,Wallet,Bank Timeout,0,Recovered
+TX00612,C0198,6228,Net Banking,Bank Timeout,3,Not Recovered
+TX00613,C0198,3653,Net Banking,Technical Error,0,Recovered
+TX00614,C0153,934,Wallet,Payment Declined,4,Not Recovered
+TX00615,C0139,6857,Wallet,Technical Error,0,Recovered
+TX00616,C0174,7030,Net Banking,Insufficient Funds,1,Not Recovered
+TX00617,C0014,7649,Card,Card Expired,2,Not Recovered
+TX00618,C0042,9891,Card,Bank Timeout,3,Not Recovered
+TX00619,C0059,2931,Card,Payment Declined,5,Not Recovered
+TX00620,C0255,5474,Card,Technical Error,2,Not Recovered
+TX00621,C0060,895,Net Banking,Insufficient Funds,2,Not Recovered
+TX00622,C0020,9142,Card,Payment Declined,3,Not Recovered
+TX00623,C0136,9824,Wallet,Insufficient Funds,0,Not Recovered
+TX00624,C0019,707,Net Banking,Insufficient Funds,2,Not Recovered
+TX00625,C0185,5115,Net Banking,Payment Declined,4,Recovered
+TX00626,C0109,5950,Net Banking,Bank Timeout,1,Recovered
+TX00627,C0171,9816,Wallet,Technical Error,1,Not Recovered
+TX00628,C0293,3324,UPI,Payment Declined,3,Not Recovered
+TX00629,C0016,1460,Card,Card Expired,3,Not Recovered
+TX00630,C0045,4445,Net Banking,Card Expired,4,Not Recovered
+TX00631,C0222,9529,UPI,Insufficient Funds,1,Not Recovered
+TX00632,C0030,8748,UPI,Payment Declined,2,Recovered
+TX00633,C0165,2458,Net Banking,Card Expired,0,Not Recovered
+TX00634,C0121,8940,Wallet,Card Expired,1,Not Recovered
+TX00635,C0119,5760,UPI,Payment Declined,0,Recovered
+TX00636,C0274,9764,Net Banking,Card Expired,0,Not Recovered
+TX00637,C0261,5470,Net Banking,Technical Error,3,Recovered
+TX00638,C0158,3922,UPI,Payment Declined,3,Recovered
+TX00639,C0007,6644,UPI,Technical Error,5,Recovered
+TX00640,C0039,8550,Net Banking,Technical Error,0,Recovered
+TX00641,C0074,3447,Wallet,Payment Declined,5,Recovered
+TX00642,C0079,9020,UPI,Card Expired,3,Not Recovered
+TX00643,C0034,7976,Card,Technical Error,2,Recovered
+TX00644,C0056,3630,Wallet,Payment Declined,3,Not Recovered
+TX00645,C0262,2347,Card,Card Expired,0,Not Recovered
+TX00646,C0141,5035,Card,Bank Timeout,2,Recovered
+TX00647,C0038,4668,UPI,Bank Timeout,1,Not Recovered
+TX00648,C0130,3058,Wallet,Payment Declined,5,Not Recovered
+TX00649,C0059,4857,Card,Insufficient Funds,2,Not Recovered
+TX00650,C0100,3522,Net Banking,Bank Timeout,3,Not Recovered
+TX00651,C0120,2167,Card,Payment Declined,5,Not Recovered
+TX00652,C0180,5859,Net Banking,Bank Timeout,1,Recovered
+TX00653,C0011,3628,UPI,Technical Error,3,Recovered
+TX00654,C0153,551,UPI,Bank Timeout,2,Not Recovered
+TX00655,C0150,1858,Card,Technical Error,3,Recovered
+TX00656,C0290,9392,Card,Insufficient Funds,5,Not Recovered
+TX00657,C0078,7855,Card,Insufficient Funds,5,Recovered
+TX00658,C0140,3849,Wallet,Bank Timeout,3,Recovered
+TX00659,C0218,6000,Wallet,Bank Timeout,0,Recovered
+TX00660,C0241,3733,Wallet,Technical Error,3,Not Recovered
+TX00661,C0048,1661,UPI,Payment Declined,4,Not Recovered
+TX00662,C0029,5730,Net Banking,Card Expired,2,Not Recovered
+TX00663,C0203,7660,Card,Card Expired,4,Not Recovered
+TX00664,C0300,7796,Card,Card Expired,4,Not Recovered
+TX00665,C0139,1123,Net Banking,Card Expired,5,Recovered
+TX00666,C0235,9164,Card,Card Expired,0,Not Recovered
+TX00667,C0257,7320,UPI,Payment Declined,4,Not Recovered
+TX00668,C0134,146,UPI,Technical Error,4,Not Recovered
+TX00669,C0110,3919,Net Banking,Card Expired,0,Not Recovered
+TX00670,C0073,4702,UPI,Payment Declined,2,Not Recovered
+TX00671,C0054,1648,UPI,Bank Timeout,4,Recovered
+TX00672,C0230,1414,UPI,Bank Timeout,5,Not Recovered
+TX00673,C0232,8317,Net Banking,Insufficient Funds,1,Not Recovered
+TX00674,C0268,4936,UPI,Insufficient Funds,1,Not Recovered
+TX00675,C0143,1785,UPI,Bank Timeout,2,Recovered
+TX00676,C0089,7400,UPI,Card Expired,0,Not Recovered
+TX00677,C0119,8981,Wallet,Insufficient Funds,0,Recovered
+TX00678,C0044,9315,Net Banking,Bank Timeout,5,Not Recovered
+TX00679,C0291,9120,Card,Card Expired,2,Not Recovered
+TX00680,C0012,6800,UPI,Payment Declined,4,Recovered
+TX00681,C0095,7229,UPI,Insufficient Funds,4,Not Recovered
+TX00682,C0228,2193,Card,Card Expired,5,Not Recovered
+TX00683,C0163,2023,Net Banking,Technical Error,3,Recovered
+TX00684,C0044,8509,Wallet,Payment Declined,2,Not Recovered
+TX00685,C0112,7171,Card,Bank Timeout,0,Recovered
+TX00686,C0233,7673,Wallet,Technical Error,1,Recovered
+TX00687,C0257,9568,Net Banking,Card Expired,0,Not Recovered
+TX00688,C0195,9236,Wallet,Technical Error,2,Not Recovered
+TX00689,C0101,7404,Card,Bank Timeout,4,Not Recovered
+TX00690,C0245,5241,UPI,Bank Timeout,1,Recovered
+TX00691,C0165,342,Card,Payment Declined,0,Recovered
+TX00692,C0033,616,Net Banking,Card Expired,2,Not Recovered
+TX00693,C0025,2479,Card,Technical Error,3,Not Recovered
+TX00694,C0042,153,Net Banking,Bank Timeout,2,Recovered
+TX00695,C0229,8868,Net Banking,Technical Error,5,Recovered
+TX00696,C0180,4273,UPI,Technical Error,1,Recovered
+TX00697,C0209,196,Net Banking,Insufficient Funds,5,Not Recovered
+TX00698,C0286,6097,Card,Card Expired,2,Not Recovered
+TX00699,C0047,5692,Net Banking,Technical Error,5,Not Recovered
+TX00700,C0026,6260,Card,Card Expired,2,Not Recovered
+TX00701,C0041,6961,UPI,Insufficient Funds,1,Not Recovered
+TX00702,C0297,4602,Wallet,Card Expired,1,Not Recovered
+TX00703,C0247,9433,Wallet,Technical Error,0,Recovered
+TX00704,C0159,3726,Card,Bank Timeout,2,Not Recovered
+TX00705,C0198,5588,Wallet,Card Expired,1,Not Recovered
+TX00706,C0218,580,Net Banking,Technical Error,1,Recovered
+TX00707,C0279,2409,Wallet,Insufficient Funds,3,Not Recovered
+TX00708,C0246,9572,Wallet,Technical Error,2,Not Recovered
+TX00709,C0038,3604,Wallet,Bank Timeout,4,Not Recovered
+TX00710,C0023,9439,Wallet,Bank Timeout,0,Not Recovered
+TX00711,C0242,1590,UPI,Technical Error,0,Recovered
+TX00712,C0056,6190,Net Banking,Payment Declined,4,Not Recovered
+TX00713,C0150,8111,Net Banking,Bank Timeout,5,Not Recovered
+TX00714,C0013,4835,UPI,Insufficient Funds,2,Not Recovered
+TX00715,C0017,8120,Card,Insufficient Funds,3,Not Recovered
+TX00716,C0186,8536,Net Banking,Payment Declined,2,Not Recovered
+TX00717,C0187,4640,Net Banking,Technical Error,4,Not Recovered
+TX00718,C0068,2122,Net Banking,Technical Error,3,Not Recovered
+TX00719,C0054,9945,UPI,Bank Timeout,2,Recovered
+TX00720,C0289,7101,UPI,Insufficient Funds,1,Not Recovered
+TX00721,C0156,2162,UPI,Technical Error,2,Not Recovered
+TX00722,C0118,6220,Net Banking,Technical Error,0,Not Recovered
+TX00723,C0065,8445,UPI,Bank Timeout,5,Recovered
+TX00724,C0079,445,Net Banking,Payment Declined,2,Recovered
+TX00725,C0279,692,Wallet,Payment Declined,3,Not Recovered
+TX00726,C0007,7767,Wallet,Technical Error,5,Not Recovered
+TX00727,C0127,1298,UPI,Card Expired,5,Recovered
+TX00728,C0259,4051,Net Banking,Payment Declined,2,Not Recovered
+TX00729,C0279,6797,Card,Payment Declined,3,Not Recovered
+TX00730,C0068,2508,Card,Technical Error,1,Recovered
+TX00731,C0285,5835,UPI,Insufficient Funds,5,Not Recovered
+TX00732,C0160,6832,Card,Insufficient Funds,0,Recovered
+TX00733,C0040,1842,Wallet,Insufficient Funds,2,Not Recovered
+TX00734,C0053,9044,UPI,Bank Timeout,0,Recovered
+TX00735,C0104,8158,Wallet,Bank Timeout,2,Recovered
+TX00736,C0003,5819,UPI,Technical Error,0,Not Recovered
+TX00737,C0266,2624,UPI,Technical Error,1,Not Recovered
+TX00738,C0261,1123,UPI,Card Expired,5,Not Recovered
+TX00739,C0017,240,Card,Card Expired,5,Not Recovered
+TX00740,C0121,4660,UPI,Payment Declined,0,Not Recovered
+TX00741,C0165,1386,Net Banking,Bank Timeout,3,Not Recovered
+TX00742,C0077,2373,UPI,Payment Declined,3,Not Recovered
+TX00743,C0006,5083,Wallet,Technical Error,1,Not Recovered
+TX00744,C0180,3262,UPI,Technical Error,2,Recovered
+TX00745,C0034,9187,Wallet,Payment Declined,5,Not Recovered
+TX00746,C0262,9805,Card,Insufficient Funds,2,Not Recovered
+TX00747,C0244,7547,Wallet,Card Expired,4,Not Recovered
+TX00748,C0119,5079,Net Banking,Card Expired,2,Not Recovered
+TX00749,C0032,5350,Wallet,Bank Timeout,2,Recovered
+TX00750,C0017,8588,Wallet,Insufficient Funds,1,Not Recovered
+TX00751,C0026,1783,Wallet,Technical Error,4,Not Recovered
+TX00752,C0103,7716,UPI,Payment Declined,1,Recovered
+TX00753,C0187,2594,Net Banking,Card Expired,1,Not Recovered
+TX00754,C0051,8912,Wallet,Insufficient Funds,1,Not Recovered
+TX00755,C0032,7899,Wallet,Card Expired,1,Recovered
+TX00756,C0077,9294,Net Banking,Payment Declined,2,Recovered
+TX00757,C0167,1310,UPI,Insufficient Funds,2,Recovered
+TX00758,C0004,2785,Card,Bank Timeout,0,Recovered
+TX00759,C0209,8617,Wallet,Technical Error,3,Recovered
+TX00760,C0231,1281,UPI,Payment Declined,2,Not Recovered
+TX00761,C0066,7197,Wallet,Technical Error,3,Recovered
+TX00762,C0293,3241,UPI,Bank Timeout,0,Recovered
+TX00763,C0192,4829,UPI,Payment Declined,0,Recovered
+TX00764,C0025,4907,Card,Card Expired,0,Not Recovered
+TX00765,C0249,7468,Wallet,Card Expired,1,Not Recovered
+TX00766,C0012,8409,UPI,Bank Timeout,5,Not Recovered
+TX00767,C0283,1983,Card,Payment Declined,0,Recovered
+TX00768,C0069,3369,UPI,Insufficient Funds,0,Not Recovered
+TX00769,C0022,9800,Card,Technical Error,2,Recovered
+TX00770,C0038,2437,UPI,Technical Error,1,Recovered
+TX00771,C0037,5425,Net Banking,Card Expired,3,Not Recovered
+TX00772,C0287,6450,UPI,Insufficient Funds,1,Not Recovered
+TX00773,C0277,3813,Wallet,Bank Timeout,3,Recovered
+TX00774,C0179,3809,Wallet,Card Expired,2,Not Recovered
+TX00775,C0038,3878,UPI,Payment Declined,4,Not Recovered
+TX00776,C0109,592,Wallet,Insufficient Funds,0,Not Recovered
+TX00777,C0078,8380,Wallet,Insufficient Funds,3,Not Recovered
+TX00778,C0258,4157,UPI,Bank Timeout,2,Recovered
+TX00779,C0232,8648,UPI,Insufficient Funds,1,Not Recovered
+TX00780,C0039,3528,Net Banking,Technical Error,1,Not Recovered
+TX00781,C0159,7506,Card,Technical Error,3,Recovered
+TX00782,C0278,540,Wallet,Card Expired,5,Not Recovered
+TX00783,C0042,3673,Wallet,Payment Declined,2,Not Recovered
+TX00784,C0284,2584,Card,Payment Declined,0,Not Recovered
+TX00785,C0255,2087,Net Banking,Payment Declined,1,Not Recovered
+TX00786,C0071,4839,Card,Bank Timeout,4,Recovered
+TX00787,C0181,7951,UPI,Card Expired,4,Not Recovered
+TX00788,C0116,3296,Card,Payment Declined,3,Not Recovered
+TX00789,C0023,9884,Card,Bank Timeout,0,Recovered
+TX00790,C0034,7633,Wallet,Insufficient Funds,2,Not Recovered
+TX00791,C0123,5213,Wallet,Bank Timeout,4,Not Recovered
+TX00792,C0106,1725,UPI,Card Expired,1,Not Recovered
+TX00793,C0139,9175,Net Banking,Card Expired,5,Not Recovered
+TX00794,C0147,4312,Wallet,Payment Declined,1,Not Recovered
+TX00795,C0050,4464,Net Banking,Bank Timeout,5,Recovered
+TX00796,C0300,9020,UPI,Payment Declined,4,Not Recovered
+TX00797,C0097,5165,Net Banking,Bank Timeout,0,Recovered
+TX00798,C0053,6017,Wallet,Card Expired,3,Not Recovered
+TX00799,C0133,8356,Card,Insufficient Funds,5,Not Recovered
+TX00800,C0043,4195,Wallet,Bank Timeout,0,Recovered
+TX00801,C0222,7780,Card,Card Expired,1,Not Recovered
+TX00802,C0028,7210,Wallet,Technical Error,5,Not Recovered
+TX00803,C0112,5247,Card,Technical Error,4,Recovered
+TX00804,C0047,5081,UPI,Insufficient Funds,2,Not Recovered
+TX00805,C0048,1929,Net Banking,Insufficient Funds,0,Not Recovered
+TX00806,C0258,1768,UPI,Technical Error,5,Not Recovered
+TX00807,C0124,4615,Card,Bank Timeout,3,Recovered
+TX00808,C0122,4435,UPI,Technical Error,2,Not Recovered
+TX00809,C0241,6194,Card,Card Expired,4,Not Recovered
+TX00810,C0263,4475,UPI,Payment Declined,5,Not Recovered
+TX00811,C0166,9620,Wallet,Technical Error,2,Recovered
+TX00812,C0243,1562,Card,Card Expired,0,Recovered
+TX00813,C0200,8332,Net Banking,Card Expired,3,Not Recovered
+TX00814,C0097,8165,Wallet,Technical Error,0,Recovered
+TX00815,C0281,8718,UPI,Payment Declined,3,Recovered
+TX00816,C0061,7890,Card,Technical Error,0,Recovered
+TX00817,C0004,5667,Wallet,Bank Timeout,0,Recovered
+TX00818,C0081,2472,UPI,Technical Error,5,Not Recovered
+TX00819,C0068,5258,Wallet,Payment Declined,1,Not Recovered
+TX00820,C0193,9692,Card,Payment Declined,4,Not Recovered
+TX00821,C0211,5826,Card,Payment Declined,2,Not Recovered
+TX00822,C0048,2061,Wallet,Card Expired,1,Not Recovered
+TX00823,C0051,8564,Card,Bank Timeout,0,Recovered
+TX00824,C0271,8957,Net Banking,Card Expired,3,Not Recovered
+TX00825,C0036,5297,Card,Payment Declined,3,Not Recovered
+TX00826,C0162,2564,Wallet,Insufficient Funds,3,Not Recovered
+TX00827,C0075,2583,Wallet,Card Expired,5,Not Recovered
+TX00828,C0228,4802,Wallet,Payment Declined,2,Not Recovered
+TX00829,C0115,8788,Net Banking,Payment Declined,2,Recovered
+TX00830,C0002,1946,Net Banking,Card Expired,0,Not Recovered
+TX00831,C0211,6870,Wallet,Card Expired,5,Not Recovered
+TX00832,C0252,2380,Wallet,Bank Timeout,1,Not Recovered
+TX00833,C0002,4721,UPI,Payment Declined,2,Not Recovered
+TX00834,C0252,2784,Net Banking,Bank Timeout,1,Recovered
+TX00835,C0178,5797,Net Banking,Insufficient Funds,4,Not Recovered
+TX00836,C0213,7522,UPI,Insufficient Funds,0,Recovered
+TX00837,C0300,2787,Net Banking,Insufficient Funds,1,Not Recovered
+TX00838,C0102,768,Wallet,Payment Declined,4,Not Recovered
+TX00839,C0258,3364,Card,Bank Timeout,4,Recovered
+TX00840,C0053,1732,Card,Bank Timeout,3,Not Recovered
+TX00841,C0040,6159,UPI,Insufficient Funds,2,Recovered
+TX00842,C0220,3474,Wallet,Payment Declined,1,Recovered
+TX00843,C0116,8599,Net Banking,Payment Declined,0,Recovered
+TX00844,C0118,5284,UPI,Payment Declined,3,Not Recovered
+TX00845,C0161,2544,Wallet,Card Expired,1,Not Recovered
+TX00846,C0247,4186,Wallet,Bank Timeout,2,Recovered
+TX00847,C0290,4951,Card,Bank Timeout,2,Recovered
+TX00848,C0287,4264,Card,Insufficient Funds,1,Not Recovered
+TX00849,C0129,9707,Card,Payment Declined,1,Not Recovered
+TX00850,C0105,240,Card,Insufficient Funds,0,Recovered
+TX00851,C0081,2562,UPI,Bank Timeout,0,Recovered
+TX00852,C0254,3900,Card,Insufficient Funds,4,Not Recovered
+TX00853,C0063,7575,Net Banking,Card Expired,3,Not Recovered
+TX00854,C0035,4610,Wallet,Payment Declined,4,Not Recovered
+TX00855,C0065,5421,UPI,Insufficient Funds,0,Recovered
+TX00856,C0300,2277,UPI,Bank Timeout,2,Recovered
+TX00857,C0073,4924,Net Banking,Card Expired,2,Not Recovered
+TX00858,C0077,7928,UPI,Payment Declined,0,Not Recovered
+TX00859,C0004,9079,UPI,Technical Error,5,Recovered
+TX00860,C0033,7082,UPI,Bank Timeout,3,Recovered
+TX00861,C0033,4781,Net Banking,Technical Error,2,Not Recovered
+TX00862,C0145,6927,Net Banking,Bank Timeout,0,Recovered
+TX00863,C0146,7370,Wallet,Technical Error,2,Recovered
+TX00864,C0267,6609,Card,Insufficient Funds,0,Recovered
+TX00865,C0143,7783,Net Banking,Insufficient Funds,2,Not Recovered
+TX00866,C0124,4387,UPI,Technical Error,3,Not Recovered
+TX00867,C0004,7719,Wallet,Technical Error,2,Not Recovered
+TX00868,C0222,4091,UPI,Card Expired,0,Not Recovered
+TX00869,C0237,8079,Net Banking,Card Expired,5,Not Recovered
+TX00870,C0061,8070,Net Banking,Technical Error,1,Recovered
+TX00871,C0116,5078,Card,Payment Declined,5,Not Recovered
+TX00872,C0109,3386,UPI,Technical Error,3,Not Recovered
+TX00873,C0055,1057,Net Banking,Technical Error,5,Not Recovered
+TX00874,C0054,9288,Net Banking,Payment Declined,4,Not Recovered
+TX00875,C0065,4716,Net Banking,Payment Declined,2,Recovered
+TX00876,C0075,2350,Net Banking,Insufficient Funds,1,Not Recovered
+TX00877,C0124,2842,UPI,Insufficient Funds,2,Not Recovered
+TX00878,C0233,2060,Net Banking,Bank Timeout,1,Recovered
+TX00879,C0261,9759,Card,Bank Timeout,3,Not Recovered
+TX00880,C0109,8721,Net Banking,Card Expired,2,Not Recovered
+TX00881,C0116,3322,Net Banking,Bank Timeout,4,Recovered
+TX00882,C0197,9585,Card,Technical Error,1,Recovered
+TX00883,C0278,1800,UPI,Insufficient Funds,5,Not Recovered
+TX00884,C0200,1026,UPI,Insufficient Funds,1,Not Recovered
+TX00885,C0299,1426,Card,Payment Declined,4,Not Recovered
+TX00886,C0074,613,Net Banking,Card Expired,4,Not Recovered
+TX00887,C0118,4948,Card,Insufficient Funds,2,Recovered
+TX00888,C0020,9856,Net Banking,Technical Error,2,Recovered
+TX00889,C0078,8900,Card,Bank Timeout,0,Recovered
+TX00890,C0078,9269,Card,Bank Timeout,5,Recovered
+TX00891,C0026,9785,Card,Card Expired,0,Not Recovered
+TX00892,C0018,7684,UPI,Card Expired,5,Not Recovered
+TX00893,C0045,7362,Card,Card Expired,4,Not Recovered
+TX00894,C0229,6131,Wallet,Card Expired,2,Not Recovered
+TX00895,C0020,8865,Wallet,Insufficient Funds,3,Not Recovered
+TX00896,C0210,1009,Wallet,Card Expired,3,Not Recovered
+TX00897,C0208,5485,Wallet,Card Expired,4,Not Recovered
+TX00898,C0164,8674,UPI,Payment Declined,4,Not Recovered
+TX00899,C0113,6672,Net Banking,Card Expired,1,Not Recovered
+TX00900,C0202,5270,Card,Insufficient Funds,5,Not Recovered
+TX00901,C0185,6054,UPI,Payment Declined,2,Recovered
+TX00902,C0115,1752,Wallet,Bank Timeout,1,Not Recovered
+TX00903,C0203,4603,Card,Bank Timeout,3,Not Recovered
+TX00904,C0008,4255,Wallet,Insufficient Funds,0,Not Recovered
+TX00905,C0229,3172,Wallet,Insufficient Funds,0,Not Recovered
+TX00906,C0197,9858,Wallet,Insufficient Funds,3,Not Recovered
+TX00907,C0136,1973,Card,Insufficient Funds,4,Not Recovered
+TX00908,C0074,1408,Net Banking,Payment Declined,2,Not Recovered
+TX00909,C0078,3972,Wallet,Card Expired,0,Not Recovered
+TX00910,C0081,5934,Card,Payment Declined,4,Recovered
+TX00911,C0224,678,Card,Insufficient Funds,5,Not Recovered
+TX00912,C0064,1490,Wallet,Card Expired,1,Not Recovered
+TX00913,C0073,2573,Card,Card Expired,1,Not Recovered
+TX00914,C0248,4079,Card,Insufficient Funds,2,Recovered
+TX00915,C0161,5554,Net Banking,Insufficient Funds,3,Not Recovered
+TX00916,C0292,8241,Card,Payment Declined,0,Not Recovered
+TX00917,C0152,9210,Card,Bank Timeout,3,Recovered
+TX00918,C0172,4229,Wallet,Card Expired,2,Not Recovered
+TX00919,C0097,4358,Wallet,Card Expired,0,Not Recovered
+TX00920,C0028,2938,UPI,Insufficient Funds,2,Recovered
+TX00921,C0181,7687,Wallet,Technical Error,5,Not Recovered
+TX00922,C0212,9631,UPI,Technical Error,0,Not Recovered
+TX00923,C0129,3025,Card,Bank Timeout,1,Recovered
+TX00924,C0014,1093,Card,Bank Timeout,1,Recovered
+TX00925,C0088,4839,Wallet,Payment Declined,2,Not Recovered
+TX00926,C0037,4065,Wallet,Payment Declined,3,Not Recovered
+TX00927,C0024,597,UPI,Bank Timeout,5,Not Recovered
+TX00928,C0023,8141,Wallet,Insufficient Funds,3,Not Recovered
+TX00929,C0221,5492,Card,Insufficient Funds,2,Not Recovered
+TX00930,C0008,2892,UPI,Bank Timeout,3,Not Recovered
+TX00931,C0058,4075,Wallet,Bank Timeout,0,Not Recovered
+TX00932,C0267,3056,Wallet,Card Expired,4,Not Recovered
+TX00933,C0257,1886,Net Banking,Payment Declined,0,Not Recovered
+TX00934,C0001,1112,Card,Technical Error,1,Recovered
+TX00935,C0042,4198,Wallet,Payment Declined,5,Not Recovered
+TX00936,C0167,5622,UPI,Payment Declined,4,Recovered
+TX00937,C0005,9173,UPI,Payment Declined,4,Recovered
+TX00938,C0145,9283,Net Banking,Insufficient Funds,3,Not Recovered
+TX00939,C0214,4936,Wallet,Card Expired,3,Not Recovered
+TX00940,C0052,1249,Card,Card Expired,1,Not Recovered
+TX00941,C0218,5802,Wallet,Technical Error,0,Not Recovered
+TX00942,C0268,4644,Wallet,Insufficient Funds,5,Not Recovered
+TX00943,C0200,8445,Wallet,Bank Timeout,0,Recovered
+TX00944,C0095,6654,Wallet,Payment Declined,3,Not Recovered
+TX00945,C0222,4935,Card,Bank Timeout,0,Recovered
+TX00946,C0108,8154,Net Banking,Bank Timeout,3,Recovered
+TX00947,C0064,4853,UPI,Bank Timeout,1,Recovered
+TX00948,C0174,8610,UPI,Bank Timeout,2,Not Recovered
+TX00949,C0119,4878,Card,Technical Error,3,Recovered
+TX00950,C0006,2332,UPI,Insufficient Funds,1,Not Recovered
+TX00951,C0093,6600,Net Banking,Technical Error,2,Not Recovered
+TX00952,C0158,694,UPI,Technical Error,2,Not Recovered
+TX00953,C0236,3123,UPI,Technical Error,5,Recovered
+TX00954,C0041,5692,Net Banking,Technical Error,4,Recovered
+TX00955,C0284,2107,UPI,Technical Error,3,Recovered
+TX00956,C0037,6609,Wallet,Bank Timeout,4,Recovered
+TX00957,C0230,7842,Card,Payment Declined,5,Not Recovered
+TX00958,C0138,9467,Card,Insufficient Funds,3,Recovered
+TX00959,C0071,7172,UPI,Bank Timeout,5,Recovered
+TX00960,C0267,5089,UPI,Technical Error,3,Recovered
+TX00961,C0120,4603,UPI,Insufficient Funds,2,Not Recovered
+TX00962,C0225,2187,UPI,Payment Declined,0,Recovered
+TX00963,C0011,4638,Card,Technical Error,2,Recovered
+TX00964,C0090,2881,Card,Card Expired,5,Not Recovered
+TX00965,C0145,3280,UPI,Payment Declined,0,Recovered
+TX00966,C0055,7176,Net Banking,Bank Timeout,1,Recovered
+TX00967,C0065,5835,UPI,Bank Timeout,0,Recovered
+TX00968,C0159,9147,Net Banking,Insufficient Funds,2,Not Recovered
+TX00969,C0202,6365,Wallet,Payment Declined,5,Not Recovered
+TX00970,C0154,3444,UPI,Insufficient Funds,5,Not Recovered
+TX00971,C0011,4305,UPI,Technical Error,2,Recovered
+TX00972,C0107,4928,UPI,Card Expired,3,Not Recovered
+TX00973,C0278,2570,UPI,Insufficient Funds,1,Not Recovered
+TX00974,C0264,4719,Net Banking,Card Expired,3,Not Recovered
+TX00975,C0204,2760,Card,Payment Declined,5,Not Recovered
+TX00976,C0286,5580,Net Banking,Card Expired,2,Not Recovered
+TX00977,C0123,354,UPI,Payment Declined,0,Not Recovered
+TX00978,C0215,6996,UPI,Technical Error,3,Not Recovered
+TX00979,C0109,551,Net Banking,Payment Declined,4,Not Recovered
+TX00980,C0113,857,Card,Insufficient Funds,3,Recovered
+TX00981,C0086,318,Net Banking,Technical Error,2,Recovered
+TX00982,C0010,6770,Wallet,Bank Timeout,3,Not Recovered
+TX00983,C0169,5188,Net Banking,Insufficient Funds,5,Not Recovered
+TX00984,C0085,1296,Wallet,Insufficient Funds,3,Not Recovered
+TX00985,C0288,9962,Wallet,Card Expired,4,Not Recovered
+TX00986,C0272,5590,UPI,Technical Error,3,Not Recovered
+TX00987,C0194,2571,Card,Payment Declined,0,Recovered
+TX00988,C0248,7784,UPI,Bank Timeout,2,Recovered
+TX00989,C0221,6334,Wallet,Insufficient Funds,1,Recovered
+TX00990,C0095,9711,Wallet,Payment Declined,3,Not Recovered
+TX00991,C0147,2636,Net Banking,Card Expired,1,Not Recovered
+TX00992,C0293,7138,Wallet,Insufficient Funds,1,Not Recovered
+TX00993,C0122,1627,Wallet,Payment Declined,5,Recovered
+TX00994,C0099,3553,Card,Payment Declined,5,Not Recovered
+TX00995,C0283,7063,UPI,Card Expired,2,Not Recovered
+TX00996,C0094,5057,Net Banking,Bank Timeout,2,Not Recovered
+TX00997,C0222,7971,UPI,Technical Error,2,Not Recovered
+TX00998,C0013,4535,Net Banking,Card Expired,2,Not Recovered
+TX00999,C0182,205,Card,Bank Timeout,2,Recovered
+TX01000,C0279,8556,Card,Bank Timeout,4,Not Recovered
