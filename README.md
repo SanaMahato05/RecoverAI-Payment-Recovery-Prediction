@@ -95,7 +95,6 @@ RecoverAI uses a Random Forest classification model to estimate the recovery pro
 ## Author
 
 **Sana Mahato**  
-B.Tech – Computer Science and Engineering  
-The ICFAI University, Raipur
+
 
 **GitHub:** https://github.com/SanaMahato05
